@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Asus\Desktop\Ders\Proje Yedekleri\AileAnilari_Yedekler\25.05.2025-V3\AileAnilari\AileAnilari\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AileGrubuListe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AileKoduOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ailem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AileTavsiyeleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AnaPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AniEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DetayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GirisYap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Hakkında.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kategoriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KayitOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profilim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SifremiUnuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\AileUyeleriKart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\AniKart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\KategoriKart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\TavsiyelerKart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UyelerProfilDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ZamanCizelgesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
